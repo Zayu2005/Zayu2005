@@ -87,7 +87,10 @@ const zayu = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zayu2005&theme=tokyonight)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Zayu2005&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Zayu2005&theme=default"/>
+</picture>
 
 </div>
 
@@ -97,7 +100,10 @@ const zayu = {
 
 <div align="center">
 
-[![Zayu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zayu2005&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zayu2005&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zayu2005&theme=github-light"/>
+</picture>
 
 </div>
 
@@ -107,7 +113,10 @@ const zayu = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zayu2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Zayu2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Zayu2005&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
+</picture>
 
 </div>
 
@@ -116,7 +125,11 @@ const zayu = {
 <div align="center">
 
 ### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+</picture>
 
 </div>
 
@@ -126,7 +139,10 @@ const zayu = {
 
 ### 🐍 Watch my contribution graph get eaten by the snake
 
-![snake gif](https://github.com/Zayu2005/Zayu2005/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zayu2005/Zayu2005/blob/output/github-snake-dark.svg" />
+  <img src="https://github.com/Zayu2005/Zayu2005/blob/output/github-snake.svg"/>
+</picture>
 
 </div>
 
