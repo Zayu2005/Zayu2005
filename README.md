@@ -109,14 +109,55 @@ const zayu = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Summary Cards
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Zayu2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Zayu2005&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zayu2005&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zayu2005&theme=default"/>
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zayu2005&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zayu2005&theme=default"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zayu2005&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zayu2005&theme=default"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zayu2005&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zayu2005&theme=default"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zayu2005&theme=tokyonight&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zayu2005&theme=default&utcOffset=8"/>
+</picture>
+
+</div>
+
+---
+
+## 🎯 Skills
+
+<div align="center">
+
+```text
+Java         ████████████████████░░░░░   80%
+Python       ██████████████████░░░░░░░   72%
+JavaScript   ████████████████░░░░░░░░░   64%
+Vue.js       ██████████████░░░░░░░░░░░   56%
+Spring Boot  ████████████████████░░░░░   80%
+Flask        ██████████████░░░░░░░░░░░   56%
+MySQL        ██████████████████░░░░░░░   72%
+Redis        ████████████░░░░░░░░░░░░░   48%
+Docker       ████████████░░░░░░░░░░░░░   48%
+Git          ██████████████████░░░░░░░   72%
+```
 
 </div>
 
